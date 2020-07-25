@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Problems-Advanced_calculator_main" target="11" />
+      <module name="Problems-Advanced_calculator_test" target="11" />
+      <module name="Problems-Application_as_a_class_main" target="11" />
+      <module name="Problems-Application_as_a_class_test" target="11" />
+      <module name="Problems-Compression_algorithm_main" target="11" />
+      <module name="Problems-Compression_algorithm_test" target="11" />
+      <module name="Problems-Double_characters_main" target="11" />
+      <module name="Problems-Double_characters_test" target="11" />
+      <module name="Problems-Heron's_formula_main" target="11" />
+      <module name="Problems-Heron's_formula_test" target="11" />
+      <module name="Problems-Inverse_boolean_flags_main" target="11" />
+      <module name="Problems-Inverse_boolean_flags_test" target="11" />
+      <module name="Problems-Pow_main" target="11" />
+      <module name="Problems-Pow_test" target="11" />
+      <module name="Problems-Quadratic_equation_main" target="11" />
+      <module name="Problems-Quadratic_equation_test" target="11" />
+      <module name="Problems-The_index_of_an_argument_main" target="11" />
+      <module name="Problems-The_index_of_an_argument_test" target="11" />
+      <module name="Problems-The_percentage_of_G_and_C_characters_main" target="11" />
+      <module name="Problems-The_percentage_of_G_and_C_characters_test" target="11" />
+      <module name="Readability_Score-task_main" target="11" />
+      <module name="Readability_Score-task_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

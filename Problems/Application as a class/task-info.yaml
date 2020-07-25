@@ -1,0 +1,21 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Application {
+
+        String name;
+
+        void run(String[] args) {
+            // implement me
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2954
+status: Solved
+feedback:
+  message: |
+    Failed test #1 of 4. Wrong answer
+  time: Wed, 22 Jul 2020 15:11:43 UTC
+record: -1
